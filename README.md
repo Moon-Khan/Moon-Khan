@@ -2,7 +2,7 @@
 <h3>I am a Final-year undergraduate student studying at FAST NUCES.</h4>
 
 - 🌱 I’m currently exploring **Data Science field.**
-- 💻 I have hands-on experience in **Web development.**
+- 💻 I have hands-on experience in **Web And App development.**
 - ⚡ My hobby is to **Playing E-Games and Watching Cricket.**
 - 📫 You can email me: mamoonofficial01@gmail.com
   
