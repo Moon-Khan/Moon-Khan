@@ -2,7 +2,7 @@
 <h3>I am a Final-year undergraduate student studying at FAST NUCES.</h4>
 
 - 🌱 I’m currently exploring **Data Science field.**
-- 💻 I have hands-on experience in **React, React Native, Express, Node.js, Redux, Firebase, SQL.**
+- 💻 I have hands-on experience in **React, React Native, Express, Node.js, Redux, Firebase, SQL, Oracle**
 - ⚡ My hobby is to **play E-Games.**
 - 📫 You can email me at mamoonofficial01@gmail.com
 - 🌐 Visit my [Portfolio Website](https://moon-khan.github.io/portfolio-website/) to see my work.
