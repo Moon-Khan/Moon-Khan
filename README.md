@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Mamoon</h2>
+<h2>Hi 👋, I'm a Data Analyst</h2>
 <h3>I am a Final-year undergraduate student studying at FAST NUCES.</h4>
 
 - 🌱 I’m currently exploring **Data Science field.**
