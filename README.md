@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm a Data Analyst</h2>
-<h3>I am a Final-year undergraduate student studying at FAST NUCES.</h4>
+<h3>Final-year undergraduate student studying at FAST NUCES.</h4>
 
 - 🌱 I’m currently exploring **Data Science field.**
 - 💻 I have hands-on experience in **React, React Native, Express, Node.js, Redux, Firebase, SQL, Oracle**
