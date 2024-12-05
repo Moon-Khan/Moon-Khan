@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm a Data Scientist</h2>
 <h3>Graduated from FAST NUCES🎓</h4>
 
-- 🌱 I’m currently exploring **Data Science field.**
+- 🌱 I’m currently exploring **Large Language Models (LLMS)**
 - 💻 I have hands-on experience in **Python, Pandas, NumPy, OpenCV, LLMs, Langchain, Machine Learning, Deep Learning, Azure, SQL, and Oracle**
 - ⚡ My hobby is to **play E-Games.**
 - 📫 You can email me at mamoonofficial01@gmail.com
