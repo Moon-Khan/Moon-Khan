@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm a Data Scientist</h2>
+<h2>Hi 👋, I'm a Software Engineer</h2>
 <h3>Graduated from FAST NUCES🎓</h4>
 
 - 🌱 I’m currently exploring **Large Language Models (LLMS)**
