@@ -16,32 +16,53 @@
 
 ## 🚀 About Me  
 
-**Software Engineer | Data Science Graduate | AI & LLM Enthusiast**
+**Software Engineer | Top 2% Python Developer Worldwide | AI & LLM Enthusiast**
 
-I’m a **Software Engineer** graduated from **FAST NUCES**, with a strong foundation in **Data Science, Machine Learning, and backend development**.  
-I enjoy building **scalable applications**, experimenting with **Large Language Models**, and turning complex problems into clean, efficient solutions.
+I am a **highly skilled Software Engineer** with a strong background in **building, maintaining, and improving web and data-driven applications**. I specialize in **fixing bugs, implementing new features, and delivering scalable, production-ready solutions**. I enjoy working across the **entire stack** and experimenting with **AI and LLM technologies** to solve complex business problems efficiently.
 
-🔹 Interested in **LLMs, Generative AI, and intelligent systems**  
-🔹 Experience with **data-driven applications & APIs**  
-🔹 Passionate about continuous learning and modern tech  
+🔹 Experienced in **full-stack development, debugging, and feature enhancements**  
+🔹 Skilled in **data-driven applications, cloud integration, and AI/ML solutions**  
+🔹 Passionate about writing **clean, maintainable code** and learning modern technologies  
 
 ---
 
 ## 🛠 Tech Stack  
 
 ### 🚀 **Languages & Core Skills**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
 
-### 🤖 **AI / Data Science**
+
+### 🌐 Front-end
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge)
+![EJS](https://img.shields.io/badge/-EJS-2C3A36?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+
+### ⚙️ Back-end
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MS SQL](https://img.shields.io/badge/-MS_SQL-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![NoSQL](https://img.shields.io/badge/-NoSQL-FF6F00?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+
+### 🤖 Data Science & AI
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/-Data_Analysis-1976D2?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-8A2BE2?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/-LLMs-FF6F00?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/-Generative_AI-FF4081?style=for-the-badge)
+![NLP](https://img.shields.io/badge/-NLP-00BFA5?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 
 ### ☁️ **Cloud & Tools**
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge)
