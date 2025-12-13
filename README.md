@@ -1,6 +1,6 @@
 <div align="center">
   <h1 style="color: #F7CC18FF;">Hi there, I'm Mamoon Khan 👋</h1>
-  <h3>Software Engineer | FAST NUCES Graduate 🎓</h3>
+  <h2>Software Engineer </h2>
   <a href="https://moon-khan.github.io/portfolio-website/" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-Click%20Here-brightgreen?style=for-the-badge"/>
   </a>
