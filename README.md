@@ -113,7 +113,3 @@ I am a **highly skilled Software Engineer** with a strong background in **buildi
 
 ---
 
-<p align="center">
-  Profile Views<br>
-  <img src="https://profile-counter.glitch.me/moon-khan/count.svg">
-</p>
