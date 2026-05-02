@@ -16,7 +16,7 @@
 
 ## 🚀 About Me  
 
-**Software Engineer | Top 2% Python Developer Worldwide | AI & LLM Enthusiast**
+**Software Engineer | Exploring Gen-Ai**
 
 I am a **highly skilled Software Engineer** with a strong background in **building, maintaining, and improving web and data-driven applications**. I specialize in **fixing bugs, implementing new features, and delivering scalable, production-ready solutions**. I enjoy working across the **entire stack** and experimenting with **AI and LLM technologies** to solve complex business problems efficiently.
 
